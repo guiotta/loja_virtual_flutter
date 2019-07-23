@@ -1,6 +1,6 @@
 # loja_virtual
 
-A new Flutter application.
+Este projeto é um simples teste para a construção de uma aplicação de loja, sendo desenvolvido em Flutter e Dart.
 
 ## Getting Started
 
